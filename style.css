@@ -1,0 +1,43 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+    border: solid lightgreen;
+}
+
+body{
+    background-color:rgb(136, 201, 231) ;
+}
+h1{
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+    border: dotted khaki;
+    border-radius: 50px;
+    color: olive;
+}
+h3{
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+    border: dashed lime;
+    color: royalblue;
+}
+h4{
+    font-weight: bold;
+    font-size: 15px;
+}
